@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# A file used to deploy NORA on the remote virtual machine, includes the installation of the virtual python environment
 # Set bash options for better error handling
 set -euo pipefail
 trap 'echo "An error occurred. Exiting."' ERR
