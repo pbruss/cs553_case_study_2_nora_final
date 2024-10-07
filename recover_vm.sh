@@ -1,6 +1,6 @@
 #!/bin/bash
 # DS/CS533 Case Study 2
-# A script that is called when recovery.sh detects that the virtual machine for group 14 has been
+# Extra Credit: A script that is called when recovery.sh detects that the virtual machine for group 14 has been
 
 # Calling connect_student_admin.sh
 echo "Running connect_student_admin.sh..."
