@@ -1,5 +1,7 @@
 #!/bin/bash
+# DS/CS533 Case Study 2
 # A script that monitors the uptime situation of the virtual machine hosting NORA
+
 # Configuration
 PORT=22014
 MACHINE="paffenroth-23.dyn.wpi.edu"
