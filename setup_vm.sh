@@ -1,4 +1,5 @@
 #!/bin/bash
+# A script used to set up the remote virtual machine from scratch.
 
 # Set bash options for better error handling
 set -euo pipefail
